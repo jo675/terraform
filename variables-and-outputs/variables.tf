@@ -1,6 +1,6 @@
 variable "my_string" {
     type = string
-    default = "wow!"
+    default = "a string"
 }
 
 variable "my_map" {
